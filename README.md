@@ -1,4 +1,8 @@
-# Intro_to_python
-Introduction to Python Online Course at eKOMX (22.04-23.04.2024)
+# Introduction to Programming in Python
 
-Instructors: Indira Sen, Ana Sanchez Acosta
+There are two iterations of this course:
+- As a block course for the SEDS Master Programming at the University of Konstanz, Winter Semester 23/24 (5 days)
+- As an online course for eKOMEX'24 (2 days)
+
+Instructors: Indira Sen
+TAs: Elena Solar, Claire Jordan, Andri Tutschmann, Ana Sanchez Acosta
