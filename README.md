@@ -6,4 +6,4 @@ There are two iterations of this course:
 
 Instructor: Indira Sen
 
-TAs: Elena Solar, Claire Jordan, Andri Tutschmann, Ana Sanchez Acosta
+TAs: Elena Solar, Claire Jordan, Andri Rutschmann, Ana Sanchez Acosta
